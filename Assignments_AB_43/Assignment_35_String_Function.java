@@ -32,6 +32,7 @@ public class Assignment_35_String_Function {
 		System.out.println(wholename2.contains(wholename1));//contains
 		System.out.println(wholename2.startsWith("M"));//substring startindex
 		System.out.println(wholename1.endsWith("l"));//substring endindex
+		System.out.println(wholename1.substring(17,23));
 		
 	}
 

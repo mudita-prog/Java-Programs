@@ -23,6 +23,6 @@ public class Assignment_17_AllMethodsInScannerClass {
 	System.out.print("Working - ");
 	boolean a8 = a.nextBoolean();
 	
+	
 	}
-
 }

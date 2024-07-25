@@ -4,7 +4,7 @@ public class Assignment_40_Reverse_String {
 
 	public static void main(String[] args) {
 		
-		String input = "mom";
+		String input = "mudita";
 		String output = "";
 		
 		for(int i=input.length()-1;i>=0;i--)
@@ -13,7 +13,7 @@ public class Assignment_40_Reverse_String {
 	    output=output+c1;}
 	    System.out.println(output);
 		
-	     if (input.contentEquals(output))// checks if string is palindrome or not.
+	   /*  if (input.contentEquals(output))// checks if string is palindrome or not.
 	     {
 	    	 System.out.println("The given String is a Palindrome");
 	     }

@@ -10,9 +10,9 @@ class Assignment_33b_MethodOverridingUsingFinalKeyword
 public class Assignment_33_MethodOverridingUsingFinalKeyword extends Assignment_33b_MethodOverridingUsingFinalKeyword 
 {
 
-	void TwoFactorAuthentication()
+	final void TwoFactorAuthentication()
 	{
-		final TwoFactorAuthentication();
+		
 		System.out.println("By SMS");
 	}
 	

@@ -12,12 +12,7 @@ interface Parent extends Grand_Parent
 public class Assignment_34_abstractMethodAndConctreteMethodsExtends implements Parent 
 {	
 public static void main(String[] args) {
-	Assignment_34_abstractMethodAndConctreteMethodsExtends s1 = new Assignment_34_abstractMethodAndConctreteMethodsExtends();
-	s1.abstract_method1();
-	s1.abstract_method2();
-	s1.abstract_method3();
-	s1.abstract_method4();
-
+	
 }
 public void abstract_method1() 
 {
@@ -32,4 +27,6 @@ public void abstract_method3() {
 }
 public void abstract_method4() {
 	System.out.println("1");
+
+
 }}
